@@ -23,7 +23,7 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: 'b90eb04148824475b9a152956212308',
+  weatherKey: 'd4370f2aea8193fd606178d0e823eb19',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'F',
   weatherLatitude: '44.809773',
